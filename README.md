@@ -11,18 +11,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pdyt/Zpdf/stargazers"><img src="https://img.shields.io/github/stars/pdyt/Zpdf.svg" alt="GitHub stars"></a>
-  <a href="https://github.com/pdyt/Zpdf/network/members"><img src="https://img.shields.io/github/forks/pdyt/Zpdf.svg" alt="GitHub forks"></a>
-  <a href="https://github.com/pdyt/Zpdf/issues"><img src="https://img.shields.io/github/issues-raw/pdyt/Zpdf" alt="Open issues"></a>
-  <a href="https://github.com/pdyt/Zpdf/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/pdyt/Zpdf" alt="Closed issues"></a>
-</p>
-
-<p align="center">
   <strong>联系我们：</strong>
   <a href="images/QQ社群.jpg">QQ社群</a> | 
   <a href="images/QQ智小译服务号.jpg">QQ智小译服务号</a> | 
   <a href="images/微信公众号.jpg">微信公众号</a> | 
   <a href="images/商务合作.jpg">商务合作</a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/pdyt/Zpdf/stargazers"><img src="https://img.shields.io/github/stars/pdyt/Zpdf.svg" alt="GitHub stars"></a>
+  <a href="https://github.com/pdyt/Zpdf/network/members"><img src="https://img.shields.io/github/forks/pdyt/Zpdf.svg" alt="GitHub forks"></a>
+  <a href="https://github.com/pdyt/Zpdf/issues"><img src="https://img.shields.io/github/issues-raw/pdyt/Zpdf" alt="Open issues"></a>
+  <a href="https://github.com/pdyt/Zpdf/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/pdyt/Zpdf" alt="Closed issues"></a>
 </p>
 
 
