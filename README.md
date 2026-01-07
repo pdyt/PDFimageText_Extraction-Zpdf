@@ -93,92 +93,82 @@ Zpdf是一款基于**微调大语言模型**的PDF文档处理平台，针对**�
 
 
 <details>
-  <summary>历史版本</summary>
+  <summary><strong>历史版本</strong></summary>
+  
   <details>
-    <summary>Zpdf-v0.2.2-2025/10/01发布</summary>
-    <ul><li>
-      - 加入保留排版翻译功能。
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.2.2-2025/10/01发布</strong></summary>
+    <ul>
+      <li>加入保留排版翻译功能。</li>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
   
   <details>
-    <summary>Zpdf-v0.2.2-2025/10/01发布</summary>
-    <ul><li>
-      加入保留排版翻译功能。
-      修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.2.1-2025/09/15发布</strong></summary>
+    <ul>
+      <li>加入格式转换功能。</li>
+      <li>界面全面改版，更清晰直观的视觉与操作体验。</li>
+      <li>增加了若干功能。</li>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.2.1-2025/09/15发布</summary>
-    <ul><li>
-      - 加入格式转换功能。
-      - 界面全面改版，更清晰直观的视觉与操作体验。
-      - 增加了若干功能。
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.1.3-2025/08/01发布</strong></summary>
+    <ul>
+      <li>增加了若干功能。</li>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.1.3-2025/08/01发布</summary>
-    <ul><li>
-      - 增加了若干功能。
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.1.2-2025/07/21发布</strong></summary>
+    <ul>
+      <li>加入手写图片识别功能。</li>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.1.2-2025/07/21发布</summary>
-    <ul><li>
-      - 加入手写图片识别功能。
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.1.1-2025/06/10发布</strong></summary>
+    <ul>
+      <li>PDF解析功能接入新模型。</li>
+      <li>引入 Deepseek v3 和 Chat GPT-5 接口。</li>
+      <li>界面全面改版。</li>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.1.1-2025/06/10发布</summary>
-    <ul><li>
-      - PDF解析功能接入新模型。
-      - 引入 Deepseek v3 和 Chat GPT-5 接口。
-      - 界面全面改版。
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.0.4-2025/04/21发布</strong></summary>
+    <ul>
+      <li>增加了若干功能。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.0.4-2025/04/21发布</summary>
-    <ul><li>
-      - 增加了若干功能。
-    </li></ul>
+    <summary><strong>Zpdf-v0.0.3-2025/01/01发布</strong></summary>
+    <ul>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.0.3-2025/01/01发布</summary>
-    <ul><li>
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.0.2-2024/08/13发布</strong></summary>
+    <ul>
+      <li>修复了一些已知问题。</li>
+    </ul>
   </details>
-
+  
   <details>
-    <summary>Zpdf-v0.0.2-2024/08/13发布</summary>
-    <ul><li>
-      - 修复了一些已知问题。
-    </li></ul>
+    <summary><strong>Zpdf-v0.0.1-2022/10/06发布</strong></summary>
+    <ul>
+      <li>创建平台原型，接入PDF-Markdown解析、翻译功能。</li>
+      <li>依托高校专业语料库进行大模型微调。</li>
+    </ul>
   </details>
-
-  <details>
-    <summary>Zpdf-v0.0.1-2022/10/06发布</summary>
-    <ul><li>
-      - 创建平台原型，接入PDF-Markdown解析、翻译功能。
-      - 依托高校专业语料库进行大模型微调。
-    </li></ul>
-  </details>
+  
 </details>
-
-
-
-
 
 
 
